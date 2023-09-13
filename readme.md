@@ -1,10 +1,10 @@
-![preview.png](preview.png)
-
-
 ## General info
 
 I have made the online store section of the xiaomi site that I cloned look similar to a great extent. 
 Since the site updates itself with time, photos etc. may be old
+
+![preview.png](preview.png)
+
 
 ## Technologies
 
